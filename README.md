@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-I'm Sangwoo, Kim.
+## Sangwoo Kim.
 
-🎓 Student @ Computer Engineering, YU University  
-💡 Interested in Game Development 
-
-Contact to
+🎓Computer Engineering Student @ Yeungnam University
+<br>
+💡Interested in Game Development 
+<br><br>
+📫Contact  
 - ksw021227@gmail.com
 - eroom2644@naver.com
