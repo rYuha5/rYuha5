@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Sangwoo Kim.
+I'm Sangwoo Kim
 
 🎓Computer Engineering Student @ Yeungnam University
 <br>
